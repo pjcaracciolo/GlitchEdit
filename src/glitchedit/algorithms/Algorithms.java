@@ -1,9 +1,3 @@
-//GlitchEdit Assignment
-//Author: Paul Caracciolo
-//Date: Nov 17, 2016
-//Class: CS161
-//Email: pjcaracc@rams.colostate.edu
-
 package glitchedit.algorithms;
 
 import java.awt.Color;
