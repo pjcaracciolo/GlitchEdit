@@ -1,9 +1,3 @@
-//GlitchEdit Assignment
-//Author: Paul Caracciolo
-//Date: Nov 16, 2016
-//Class: CS161
-//Email: pjcaracc@rams.colostate.edu
-
 package glitchedit.gui;
 
 import java.awt.BorderLayout;
